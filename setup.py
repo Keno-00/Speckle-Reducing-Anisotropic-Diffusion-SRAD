@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="srad",
-    version="0.1.0",
+    version="0.1.1",
     author="Keno S. Jose",
     author_email="",
     description="Speckle Reducing Anisotropic Diffusion - Python implementation",

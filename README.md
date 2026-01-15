@@ -30,7 +30,7 @@ Where $c(q)$ is the diffusion coefficient computed from the instantaneous coeffi
 
 ## 🚀 Installation
 
-### From PyPI (coming soon)
+### From PyPI
 
 ```bash
 pip install srad
